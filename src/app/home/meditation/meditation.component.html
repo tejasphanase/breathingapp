@@ -1,0 +1,32 @@
+<div class="container-fluid">
+  <!-- <div id="breathing-button">brith In</div> -->
+  <div class="row">
+    <div class="col col-md-6 offset-md-3">
+      <div class="card-containt">
+        <mat-card>
+          <mat-card-content>
+            <div class="details">
+              <img mat-card-image src="{{meditationDetails.image}}" height="400px" width="400px" alt="">
+              <div class="song">
+                <h1>
+                  <mat-card-title>{{meditationDetails.title}}</mat-card-title>
+                  <br>
+                   <small>{{meditationDetails.description}}</small>
+                </h1>
+             
+                <audio controls src="{{meditationDetails.audio}}">
+                  <!-- <source  type="audio/mpeg"> -->
+                </audio>
+                <!-- <audio controls>
+                  <source src="./../../../assets/nature.ogg" type="audio/ogg">
+                </audio> -->
+                
+              </div>
+            </div>
+          </mat-card-content>
+        </mat-card>
+      </div>
+    </div>
+  </div>
+</div>
+

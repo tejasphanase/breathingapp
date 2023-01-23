@@ -1,0 +1,102 @@
+
+.container-fluids{
+  z-index:1;
+  background-color: #f1f3f5;
+}
+.details{
+  display: flex;
+}
+
+.card-containt{
+    margin-top: 60px;
+}
+
+.details h1 {
+    position: relative;
+    top: 50px;
+    left:40px;
+    padding: 5px;
+    
+}
+.audios{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 10px;
+}
+.song audio{
+    width: 80%;
+    position: relative;
+    left:35px;
+    top: 100px;
+}
+
+#breathing-button {
+    width: 180px;
+    height: 180px;
+    padding: 12px;
+    margin: 20px  auto;
+    border: 1px solid #3cc8b4;
+    -webkit-animation: breathing 5s ease-out infinite normal;
+    animation: breathing 5s ease-out infinite normal;
+    font-family:'Lantinghei SC';
+    font-size: 16px;
+    background:rgb(227, 129, 129);
+    color: #fff;
+    -webkit-font-smoothing: antialiased;
+    border-radius: 50%;
+    text-align: center; 
+        position: relative;
+    top: 56px;   
+    }
+
+
+@-webkit-keyframes breathing {
+  0% {
+    -webkit-transform: scale(0.9);
+    transform: scale(0.9);
+  }
+
+  25% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+
+  60% {
+    -webkit-transform: scale(0.9);
+    transform: scale(0.9);
+  }
+
+  100% {
+    -webkit-transform: scale(0.9);
+    transform: scale(0.9);
+  }
+}
+
+@keyframes breathing {
+  0% {
+    -webkit-transform: scale(0.9);
+    -ms-transform: scale(0.9);
+    transform: scale(0.9);
+  }
+
+  25% {
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+  }
+
+  60% {
+    -webkit-transform: scale(0.9);
+    -ms-transform: scale(0.9);
+    transform: scale(0.9);
+  }
+
+  100% {
+    -webkit-transform: scale(0.9);
+    -ms-transform: scale(0.9);
+    transform: scale(0.9);
+  }
+}
+

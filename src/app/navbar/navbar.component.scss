@@ -1,0 +1,22 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+.navbar{
+    background-color: #4dabf7;
+    position:fixed;
+    margin-top: -16px;
+    width: 100vw;
+    z-index: 2;
+
+} 
+mat-icon{
+  color: white;
+  transition: 2s;
+}
+mat-icon:hover{
+  color:black;
+}
+.text{
+  color: white;
+}
+ 

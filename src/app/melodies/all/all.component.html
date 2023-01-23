@@ -1,0 +1,86 @@
+<app-melodinav></app-melodinav>
+<div class="main">
+    <div class="melodi-category">
+        <ng-container *ngFor="let item of audios; let i=index">
+            <div class="circle" (click)=" togglePlay(audio,item)" appCircleShadow>
+                <small>{{item.title}}</small>
+                <audio #audio src="{{item.audio}}" preload="auto"></audio>
+            </div>
+        </ng-container>
+    </div>
+    <div class="mixture">
+        <button class="btn">Mixture</button>
+    </div>
+</div>
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+        <div class="circle" appCircleShadow>
+            Wind
+        </div>
+        <div class="circle" appCircleShadow>
+            Rain
+        </div>
+        <div class="circle" appCircleShadow>
+            Tornado
+        </div>
+        <div class="circle" appCircleShadow>
+            Lake
+        </div>
+        <div class="circle" appCircleShadow>
+           Ocean 
+        </div>
+        <div class="circle" appCircleShadow>
+           Snow 
+        </div>
+        <div class="circle" appCircleShadow>
+           Hazzard 
+        </div>
+        <div class="circle">
+            Water <br>
+            Fall
+        </div>
+        <div class="circle">
+           Forest 
+        </div>
+        <div class="circle">
+          Night 
+         </div>
+         <div class="circle">
+           Sand 
+         </div>
+        
+    </div>
+    <div class="mixture">
+        <button class="btn">Mixture</button>
+    </div> -->

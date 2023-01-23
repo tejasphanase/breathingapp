@@ -1,0 +1,15 @@
+.main{
+    position: relative;
+    top: 50px;
+    box-shadow: 0px -4px 3px rgb(0 0 0 /10%);
+    background-color: #f1f3f5;
+    height: 100vh;
+}
+.example-card {
+    max-width:600px;
+    margin: 20px auto;
+  }
+  .container{
+    display:flex;
+    flex-wrap: wrap;
+  }

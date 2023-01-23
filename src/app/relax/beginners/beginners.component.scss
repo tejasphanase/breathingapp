@@ -1,0 +1,18 @@
+.main{
+    position: relative;
+    top:45px;
+}
+.button button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:65%;
+    background-color: #f44336;
+    color: white;
+    margin:15px auto;
+    padding: 10px;
+    border-radius: 15px;
+    font-weight: 500;
+    font-size: 25px;
+    border: none;
+}

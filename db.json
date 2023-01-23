@@ -1,0 +1,213 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "image": "https://neempharmacy.co.ke/neem/wp-content/uploads/2019/03/Breathing.jpg",
+      "title": "MIND AND MOOD",
+      "description": "Taking more steps a day",
+      "audio": "assets/nature songs/nature-song-2.mp3"
+    },
+    {
+      "id": 2,
+      "image": "https://irp-cdn.multiscreensite.com/0dd1feeb/dms3rep/multi/Breathing_1431973268.jpg",
+      "title": "MIND AND MOOD",
+      "description": "Finding a higher meaning",
+      "audio": "assets/nature songs/nature-vision-3.mp3"
+    },
+    {
+      "id": 3,
+      "image": "https://media.istockphoto.com/id/176706412/photo/casual-man-looking-at-the-sun.jpg?s=2048x2048&w=is&k=20&c=zn0CRLxjNk-QyNTGekJa22CWO2aCVuVBgAWHtluZqbk=",
+      "title": "MIND AND MOOD",
+      "description": "Mindfulness can help you",
+      "audio": "assets/nature songs/sunflowers-spring-and-summer-piano-music-4.mp3"
+    },
+    {
+      "id": 4,
+      "image": "https://media.istockphoto.com/id/1394769222/photo/portrait-photo-of-happy-senior-caucasian-woman-relaxing-and-breathing-fresh-air-with-sunlight.jpg?s=2048x2048&w=is&k=20&c=Uv5jMMxRbf-cQfAV5bmO0kTMwga1FxXp7RQyENrEanw=",
+      "title": "Diseases & Conditions",
+      "description": "Time for a diabetes tune-up",
+      "audio": "assets/nature songs/nature-song-2.mp3"
+    },
+    {
+      "id": 5,
+      "image": "https://as1.ftcdn.net/v2/jpg/03/45/02/18/1000_F_345021888_aw8St11VoxiQDW1JQug3V62wJPfpIMKi.jpg",
+      "title": "MIND AND MOOD",
+      "description": "Finding a higher meaning"
+    },
+    {
+      "id": 6,
+      "image": "https://media.istockphoto.com/id/1352598326/photo/a-smiling-girl-is-walking-in-the-park-on-a-beautiful-day-and-listening-podcast-on-the-phone-a.jpg?s=2048x2048&w=is&k=20&c=1VYPOlt2wum0iwSxGH_GCTxPSdBHvbOYJeXbGhDGy8Y=",
+      "title": "MIND AND MOOD",
+      "description": "Finding a higher meaning"
+    },
+    {
+      "id": 7,
+      "image": "https://t3.ftcdn.net/jpg/02/30/94/42/240_F_230944203_v4IItnf82etpYCEa3PG7oWJFKzklHJu3.jpg",
+      "title": "MIND AND MOOD",
+      "description": "Finding a higher meaning"
+    },
+    {
+      "id": 8,
+      "image": "https://t4.ftcdn.net/jpg/00/76/15/93/240_F_76159385_c13zzl7s4PaxpMnbXxNjMsV0t2zGRW0t.jpg",
+      "title": "MIND AND MOOD",
+      "description": "Finding a higher meaning"
+    },
+    {
+      "id": 9,
+      "image": "https://t3.ftcdn.net/jpg/02/10/03/96/240_F_210039620_SRuclz6TQwsmUgKj7xhl2ZaMI6pOzqCH.jpg",
+      "title": "MIND AND MOOD",
+      "description": "Finding a higher meaning"
+    },
+    {
+      "id": 10,
+      "image": "https://as2.ftcdn.net/v2/jpg/04/29/96/11/1000_F_429961156_HCTbclcSGAWWLbR7SXtOUHjmCfreafgh.jpg",
+      "title": "MIND AND MOOD",
+      "description": "Finding a higher meaning"
+    },
+    {
+      "id": 11,
+      "image": "https://as2.ftcdn.net/v2/jpg/04/89/20/79/1000_F_489207987_e7dFu636gf6mFiqufcA7UGBlezfJZgdp.jpg",
+      "title": "MIND AND MOOD",
+      "description": "Finding a higher meaning"
+    },
+    {
+      "id": 12,
+      "image": "https://as2.ftcdn.net/v2/jpg/04/28/74/87/1000_F_428748702_D0hMdKSzR3SAm5JYlBXq95cQmPGyBPlF.jpg",
+      "title": "MIND AND MOOD",
+      "description": "Finding a higher meaning"
+    },
+    {
+      "id": 13,
+      "image": "https://as1.ftcdn.net/v2/jpg/01/28/50/38/1000_F_128503894_8r5DrKr6HhH6kwK5CVBpWHSfr7bEf8ce.jpg",
+      "title": "MIND AND MOOD",
+      "description": "Finding a higher meaning"
+    },
+    {
+      "id": 14,
+      "image": "https://as1.ftcdn.net/v2/jpg/01/28/50/38/1000_F_128503894_8r5DrKr6HhH6kwK5CVBpWHSfr7bEf8ce.jpg",
+      "title": "MIND AND MOOD",
+      "description": "Finding a higher meaning"
+    },
+    {
+      "id": 15,
+      "image": "https://as2.ftcdn.net/v2/jpg/05/23/78/59/1000_F_523785942_8wNLsaRndhWiKXoyYelhavkwaQzq7g5h.jpg",
+      "title": "MIND AND MOOD",
+      "description": "Finding a higher meaning"
+    },
+    {
+      "id": 16,
+      "image": "https://as1.ftcdn.net/v2/jpg/05/22/43/20/1000_F_522432030_TCdnwWVX2ukND4WgAsDFrby89gQwLr4H.jpg",
+      "title": "MIND AND MOOD",
+      "description": "Finding a higher meaning"
+    },
+    {
+      "id": 17,
+      "image": "https://as1.ftcdn.net/v2/jpg/05/23/78/60/1000_F_523786003_XFp05YB8ZaNkSqpQWGwCNUcsvUuRnjpq.jpg",
+      "title": "MIND AND MOOD",
+      "description": "Finding a higher meaning"
+    },
+    {
+      "id": 18,
+      "image": "https://as1.ftcdn.net/v2/jpg/01/99/91/62/1000_F_199916229_SbjmIccMhuk5ygOzyVQ5XAMbuBtVHNPZ.jpg",
+      "title": "MIND AND MOOD",
+      "description": "Finding a higher meaning"
+    }
+  ],
+  "favorite": [
+    {
+      "id": 2,
+      "image": "https://irp-cdn.multiscreensite.com/0dd1feeb/dms3rep/multi/Breathing_1431973268.jpg",
+      "title": "MIND AND MOOD",
+      "description": "Finding a higher meaning",
+      "audio": "assets/nature songs/nature-vision-3.mp3"
+    },
+    {
+      "id": 3,
+      "image": "https://media.istockphoto.com/id/176706412/photo/casual-man-looking-at-the-sun.jpg?s=2048x2048&w=is&k=20&c=zn0CRLxjNk-QyNTGekJa22CWO2aCVuVBgAWHtluZqbk=",
+      "title": "MIND AND MOOD",
+      "description": "Mindfulness can help you",
+      "audio": "assets/nature songs/sunflowers-spring-and-summer-piano-music-4.mp3"
+    },
+    {
+      "id": 4,
+      "image": "https://media.istockphoto.com/id/1394769222/photo/portrait-photo-of-happy-senior-caucasian-woman-relaxing-and-breathing-fresh-air-with-sunlight.jpg?s=2048x2048&w=is&k=20&c=Uv5jMMxRbf-cQfAV5bmO0kTMwga1FxXp7RQyENrEanw=",
+      "title": "Diseases & Conditions",
+      "description": "Time for a diabetes tune-up",
+      "audio": "assets/nature songs/nature-song-2.mp3"
+    }
+  ],
+  "melodiSong": [
+    {
+      "id": 1,
+      "title": "Bird",
+      "audio": "assets/nature songs/nature-song-2.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Wind",
+      "audio": "assets/nature songs/sunflowers-spring-and-summer-piano-music-4.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Rain",
+      "audio": "assets/nature songs/nature-vision-3.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Tornado",
+      "audio": "assets/nature songs/nature-song-2.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Lake",
+      "audio": "assets/nature songs/nature-song-2.mp3"
+    },
+    {
+      "id": 6,
+      "title": "Ocean",
+      "audio": "assets/nature songs/nature-song-2.mp3"
+    },
+    {
+      "id": 7,
+      "title": "Snow",
+      "audio": "assets/nature songs/nature-song-2.mp3"
+    },
+    {
+      "id": 8,
+      "title": "Hazzard",
+      "audio": "assets/nature songs/nature-song-2.mp3"
+    },
+    {
+      "id": 9,
+      "title": "Water Fall",
+      "audio": "assets/nature songs/nature-song-2.mp3"
+    },
+    {
+      "id": 10,
+      "title": "forest",
+      "audio": "assets/nature songs/nature-song-2.mp3"
+    },
+    {
+      "id": 11,
+      "title": "night",
+      "audio": "assets/nature songs/nature-song-2.mp3"
+    },
+    {
+      "id": 12,
+      "title": "sand",
+      "audio": "assets/nature songs/nature-song-2.mp3"
+    }
+  ],
+  "MixtureSong": [
+    {
+      "id": 2,
+      "title": "Wind",
+      "audio": "assets/nature songs/sunflowers-spring-and-summer-piano-music-4.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Rain",
+      "audio": "assets/nature songs/nature-vision-3.mp3"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+
+<app-footernav></app-footernav>
+<div class="main">
+    <div class="container" >
+        <mat-card class="example-card" *ngFor="let item of FavoritData">
+            <img  (click)="playSongOnClickImg(play)" mat-card-image src="{{item.image}}" height="300px" width="300px" alt="meditation images">
+            <mat-card-content>
+              <h4><b>{{item.title}}</b></h4>
+              <h4 >{{item.description}}</h4>
+              <audio #play src="{{item.audio}}">
+
+              </audio>
+            </mat-card-content>
+            <mat-card-actions>
+              <button (click)="removeFavoriteItem(item.id)" mat-button>RemoveFavorite</button>
+            </mat-card-actions>
+          </mat-card>
+    </div>
+</div>
+
